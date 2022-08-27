@@ -7,7 +7,7 @@ var lasttime = -1;
 var moving = 0;
 var first = false;
 var connected = 0;
-var actions = [ 'forward', 'back', 'left', 'right']
+var actions = [ 'forward', 'back', 'left', 'right', 'jump', 'block-break',]
 var lastaction;
 var pi = 3.14159;
 var moveinterval = 2; // 2 second movement interval
