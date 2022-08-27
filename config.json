@@ -2,7 +2,7 @@
 	"ip":"survival_of_legends.aternos.me",
 	"port": 42410,
 	"name": "afkbot",
-	"auto-night-skip":"false",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"/register karim12345 karim12345",
 	"login-cmd":"/login karim12345"
