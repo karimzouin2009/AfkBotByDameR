@@ -1,7 +1,7 @@
 {
 	"ip":"playnoodelarabic.aternos.me",
 	"port": 57180,
-	"name": "afkbot",
+	"name": "afkbot2",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register karim12345 karim12345",
