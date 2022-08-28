@@ -3,7 +3,7 @@
 	"port": 57180,
 	"name": "afkbot",
 	"auto-night-skip":"true",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register karim12345 karim12345",
 	"login-cmd":"/login karim12345"
 }
