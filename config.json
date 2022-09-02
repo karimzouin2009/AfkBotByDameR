@@ -1,9 +1,9 @@
 {
-	"ip":"SERVERTEST999.aternos.me",
-	"port": 48802,
+	"ip":"THE_WARS_SURVIVAL.aternos.me",
+	"port": 49693,
 	"name": "afkbot",
 	"auto-night-skip":"false",
-	"login-enabled":"false",
+	"login-enabled":"true",
 	"register-cmd":"/register karim12345 karim12345",
 	"login-cmd":"/login karim12345"
 }
